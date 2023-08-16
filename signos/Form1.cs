@@ -27,7 +27,7 @@ namespace signos
         private void button1_Click(object sender, EventArgs e)
         {
 
-
+            string oi;
 
             string inputDate = maskedTextBox1.Text;//pega o conteúdo da markedtextbox
             string format = "dd/MM/yyyy";//essa variável sera usada para armezar um formato especifico de data
